@@ -1,3 +1,4 @@
 # Test
 
-Changing something
+Changing something.
+Another change
